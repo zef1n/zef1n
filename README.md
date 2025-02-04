@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @zef1n
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-zef1n/zef1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Привет, я @zef1n
+👀 Интересуюсь Django, REST API, автоматизацией и backend-разработкой
+🌱 Сейчас изучаю Go и разработку iOS-приложений
+💼 Работаю над электронным дневником для школ, системой учета олимпиад и рейтинговой системой
+💞️ Ищу сотрудничество в open-source проектах на Django и DRF
+📫 Связаться со мной: 
+    Telegram: @zef1n
